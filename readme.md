@@ -8,7 +8,7 @@
 
 # Plan de le présentation
 
-## Intro: enjeux actuels en employabilité (3 min)
+## Enjeux actuels en employabilité (3 min)
 
 ### L'employabilité en chiffre et en vrac
 
@@ -89,6 +89,51 @@ Plusieurs organisations cherchent à profiter de cette situation et offrent diff
       - entre entremetteurs
       - entre formateurs
 
+## Solutions actuelles en matière de TI
+
+### Placement en ligne
+
+Vise à mettre en relation employé et employeurs
+
+  -  Portails emplois
+    - emploi Québec
+
+#### Problèmes
+
+### Plateforme de réseautage
+
+
+### Données sur le marché de l'emploi
+
+### Formations en ligne
+
+### Services de coaching
+
+
+
+## Solution idéale
+
+### Placer l'individu au centre
+
+  - Réappropriation de son parcours de vie
+  - Permettre à la personne de contrôler l'information qu'il fournit aux entreprises.
+  - Permet à la personne de faire ses propres choix.
+  - Permettre à la personne de mettre en valeur ses aspirations et ses savoirs-être
+  - Permet à la personne de se concentrer sur ce qui compte vraiment.
+    - amélioration de ses compétences
+    - ne pas passer trop de
+  - Permettre de vivre la positivement nouvelle réalitée du travail (précarité, changement d'emploi fréquents, travail à contrat, formation continu, connaissances spécialisés)
+    - chomage: un moment privilégié pour actualiser ses compétences et arrimer son parcours professionel avec ses aspirations
+    - précarité: la liberté de modeler son parcours professionnel et de travailler sur des projets stimulant
+    -
+
+
+## Projets pour y parvenir
+
+###
+
+## Besoins de collaboration
+
 
 # Notes
 
@@ -117,8 +162,8 @@ Plusieurs organisations cherchent à profiter de cette situation et offrent diff
 ### Agences de placement en ligne
 
   - [jobboom](http://www.jobboom.com/fr)
+  - [jobillºico](jobillico.com )
   - [même kijiji a une section emploi!](http://www.kijiji.ca/b-emploi/ville-de-quebec/c45l1700124)
-  -
 
 ### Plateformes de réseautage
 
