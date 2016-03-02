@@ -8,7 +8,89 @@
 
 # Plan de le présentation
 
-## Intro: le secteur de l'employabilité (3 min)
+## Intro: enjeux actuels en employabilité (3 min)
+
+### L'employabilité en chiffre et en vrac
+
+Quelques chiffres...
+
+### 3 Sphères de l'employabilité: individu, société et marché de l'emploi
+
+#### Individu
+
+  - Réalisation de soi: progression vers ses aspirations et épanouissement personnel
+  - Savoir: connaissances
+  - Savoir-faire: compétences
+  - Savoir-être: atitudes
+
+
+Une personne se réalisera et progressera seulement si elle parvient à développer le 3 facettes savoir, savoir-faire et savoir-être.
+
+Une personne qui se réalise:
+  - coûte moins cher à la société
+  - produit de la richesse
+  - aide les autres à se réaliser
+
+#### Société
+
+  - Les attentes des autres
+    - regard
+    - pressions sociales
+  - Les besoins que la société comble
+  - Le Gouvernement
+    - emploi québec
+    - chômage
+
+La société nous pousse à travailler parce qu'elle a besoin de notre travail. Mais nous aussi nous avons besoin de travailler pour avoir notre place dans la société. Divers mécanismes entrent en jeux... pression financière, pression de groupes (modes, valeurs dominantes), ...
+
+#### Marché de l'emploi
+
+  - Les entreprises (employers)
+    - besoins de main d'oeuvre
+  - les entremetteurs
+    - agences de placement
+    - les plateformes de réseautage
+    - les organisation en employabilités
+    - les organisation en formation   
+
+Les entreprises ont des besoins critiques en main d'oeuvre. S'ils ne les comblent pas, ils stagnent ou péréclites. S'ils les comblent mals cela coûte cher. Le processus de recherche et de rétention des employés parfaits est extrèmenent couteux.
+
+Plusieurs organisations cherchent à profiter de cette situation et offrent différents services (formation, intermédiaire entre employeurs et employés potentiels, ...)
+
+### Interrelation et évolution des 3 sphères de l'employabilité
+
+  - L'action des divers acteurs modèle le marché de l'employabilité
+  - Le taux de
+  - L'incapacité de combler des besoins en main d'oeuvre a un coût sociétal énorme.
+  - La mobilité et l'adaptabilité de la main d'oeuvre peut permettre de combler les besoins en main d'oeuvre.
+
+### Problèmes
+
+  - Le domaine du savoir et du savoir-être sont sursaturés
+    - universités
+    - cégeps
+    - reconnaissance des acquis
+    - formation continu
+    - MOOC
+  - Très peu d'acteurs travaillent le savoir-être
+    - souvent perçu et vécu comme un problème personelle et pathologique
+    - attitude moralisatrice
+  - Aucun acteur en employabilité ne travail sous l'angle de la réalisation de soi
+    - Intervenir sur les 3 composantes
+    - Nécessite de prendre en compte l'historique de l'individu et d'intervenir
+     plusieurs moments dans la vie d'une personne
+  - Il est fréquent de voir des personnes se remettre en question et vouloir changer de carrière
+  - Réalité actuelle
+    - emplois précaires
+    - besoins en main d'oeuvre spécialisé
+    - augmentation du coût de la vie
+    - compétition internationale
+      - entre entreprises
+      - entre entremetteurs
+      - entre formateurs
+
+
+# Notes
 
   1. Les gros joueurs du net
     - Qui sont-ils?
