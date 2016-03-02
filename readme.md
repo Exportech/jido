@@ -1,5 +1,10 @@
 # Présentation d'Exportech à la Journée Internationale des Données Ouvertes 2016
 
+# Objectifs
+
+  - **Informer**: Exportech est un organisme en employabilité qui a un département TI/web + des projets collaboratifs (openSource).
+  - **Succiter une prise de conscience**: Les données ouvertes pourraient jouer un rôle important (central!) dans la résolutions des problèmes actuels en employabilité.  
+  - **Appeler à l'action**: Venez collaborer avec Exportech et convergenceGarneau. Plusieurs nos projets collaboratifs pourraient vous être utiles et votre contribution sera reconnue à sa juste valeur.
 
 # Plan de le présentation
 
