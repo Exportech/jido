@@ -111,11 +111,10 @@ Vise à mettre en relation employé et employeurs
 
 
 
-## Solution idéale
+## Solution idéale: lacer l'individu au centre du processus d'employabilité
 
-### Placer l'individu au centre
-
-  - Réappropriation de son parcours de vie
+  - Réappropriation de son parcours de vie.
+  - Donner aux personnes les moyens de réaliser leurs ambitions professionnelles.
   - Permettre à la personne de contrôler l'information qu'il fournit aux entreprises.
   - Permet à la personne de faire ses propres choix.
   - Permettre à la personne de mettre en valeur ses aspirations et ses savoirs-être
@@ -125,12 +124,76 @@ Vise à mettre en relation employé et employeurs
   - Permettre de vivre la positivement nouvelle réalitée du travail (précarité, changement d'emploi fréquents, travail à contrat, formation continu, connaissances spécialisés)
     - chomage: un moment privilégié pour actualiser ses compétences et arrimer son parcours professionel avec ses aspirations
     - précarité: la liberté de modeler son parcours professionnel et de travailler sur des projets stimulant
-    -
+
+## La boite à outils de rêve
+
+### CV 3.0 (publication de données ouvertes)
+
+API permettant à une personne d'exposer en tant que données ouvertes une ou plusieurs des informations suivantes:
+
+  - Une historique professionnelle
+  - Historique des formations
+  - Ses réalisations
+  - Ses compétences
+  - Ses ambitions professionnelles
+  - Ses compétences de savoir-être
+
+Comment cet API se distingue-t-il d'autres plateformes de cv en ligne et de réseautage?
+
+  - L'utilisateurs à le contrôle des informations qu'il expose et est informé des personnes qui y ont accès.
+  - Le processus est encadrer par des professionnels en RH, psychométrie et employabilité. Ceci garantie la qualité et l'exactitude des données et confère une valeur ajouté très attrayante pour les recruteurs.
+  - Les utilisateurs du CV 3.0 bénéficient d'un soutient, de conseils de professionnels.
+  - Les utilisateurs bénéficient de d'une variété de services web grâce à leur données personnelles.
+
+Ces données pourront être intégrés automatiquement plateformes actuelles de recherche d'emploi, de réseautage.
+
+Ces données pourront servir à prévoir un besoin en formation ou en réorientation et suggérer des scénarions de transfert de compétences.
+
+Ces données pourront servir à être informer des opportunités en lien avec les objectifs personnels et les aspirations des utilisateurs.
+
+### Veille des besoins en emploi
+
+  - Besoins en données ouvertes
+  - web scrapping?
+  - Convaincre les acteurs en emploi de mettre en place des API
+  - Semble y avoir une certaine lourdeur et diversité des acteurs
+  - Passer directement via les RH des compagnies
+  - Observation et anticipation des tendances
+  - Diagnostique compétences en fonction des tendances de la demande en emploi
+  -
+
+La plupart de ces serrvices, informations ou activités existent déjà, mais elles sont difficilement accessible ou utilisable pour le chercheur d'emploi moyen.
+
+### Psychométrie
+
+  - Rhodes RH
+  - Trima
 
 
-## Projets pour y parvenir
+### Réseautage
 
-###
+  - Interface entre cv3.0 et linkedIn via
+  - Autres
+
+### Formation
+
+  - L'API CV 3.0 pourrait permettre une meilleur planification de l'offre de service en fonction des besoins réels. Plutôt que d'avoir une approche marketing et de chercher à convaincre les gens qu'on est la meilleur où se former. On peut se concentrer sur les activités de pédagogie et offir un contenu qui correspond exactement aux besoins des individus (demandes des entreprises et aspirations personnelles).
+
+## Comment y parvenir?
+
+Programme ambitieux qui demande la coordination de plusieurs acteurs.
+
+Attitudes:
+
+  - Il est essentiel de construire des relations de confiance mutuels entre les acteurs.
+  - Chacun doit y trouver son intérêt.
+  - Chacun doit pouvoir être financer adéquatement.
+  - Respect mutuels
+
+Les données ouvertes via des API et des données structurées.
+
+  - Expertise en API restful
+  -
 
 ## Besoins de collaboration
 
