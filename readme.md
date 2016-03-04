@@ -2,6 +2,7 @@
 
 ## Convergence Garneau et ses services
 
+
 ### Exportech
 
 ### Département TI
@@ -9,7 +10,10 @@
 
 ## Employabilité
 
-### L'employabilité en chiffre (melo)
+### L'employabilité les enjeux (melo)
+	Le maintien en emploi
+	Les changements d'emploi fréquents(job hopping)
+	Les compétences comportementales en demande
 
   idée: le domaine de l'emploi c'est gros, c'est important
 
