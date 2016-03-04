@@ -5,10 +5,10 @@
 ]>
 <svg version="1.1"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="252px" height="72px" viewBox="-4.219 -5.128 252 72" enable-background="new -4.219 -5.128 252 72"
+	 x="0px" y="0px" width="72px" height="72px" viewBox="-5.526 -5.133 72 72" enable-background="new -5.526 -5.133 72 72"
 	 xml:space="preserve">
 <defs>
 </defs>
-<polygon fill="#00632E" points="242.976,31.564 165.712,0 181.79,27.681 61.185,27.681 77.264,0 0,31.564 77.264,63.136 
-	61.185,35.446 181.791,35.446 165.712,63.136 "/>
+<circle fill="#BE172D" cx="28.698" cy="28.698" r="28.698"/>
+<text transform="matrix(1 0 0 1 16.877 47.0049)" fill="#FFFFFF" font-family="'MyriadPro-BoldCond'" font-size="55.5003">1</text>
 </svg>

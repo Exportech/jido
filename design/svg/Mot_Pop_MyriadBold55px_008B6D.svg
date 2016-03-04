@@ -5,10 +5,9 @@
 ]>
 <svg version="1.1"
 	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 x="0px" y="0px" width="252px" height="72px" viewBox="-4.219 -5.128 252 72" enable-background="new -4.219 -5.128 252 72"
+	 x="0px" y="0px" width="180px" height="72px" viewBox="-4.422 -5.943 180 72" enable-background="new -4.422 -5.943 180 72"
 	 xml:space="preserve">
 <defs>
 </defs>
-<polygon fill="#00632E" points="242.976,31.564 165.712,0 181.79,27.681 61.185,27.681 77.264,0 0,31.564 77.264,63.136 
-	61.185,35.446 181.791,35.446 165.712,63.136 "/>
+<text transform="matrix(1 0 0 1 0 46.0356)" fill="#008B6D" font-family="'MyriadPro-Bold'" font-size="55">emploi</text>
 </svg>
