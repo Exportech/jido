@@ -218,6 +218,11 @@ Les données ouvertes via des API et des données structurées.
     - nb d'emploi comme promesse électoral
     - vigeur de l'économie et son effet sur la perception politique
 
+## Difficultés des données ouvertes dans le domaine publiques
+
+  - [refus job API de HRSDC](http://ouvert.canada.ca/fr/suggested-datasets/interface-programmation-dapplications-api-guichet-emplois)
+  - [catalogue données ouvertes](http://www.donnees.gouv.qc.ca/?node=/donnees-details&id=65061e31-4cbf-4213-8b71-dde675fad2fd)
+
 # Ressources
 
 ## Écosystème de l'employabilité
@@ -225,7 +230,8 @@ Les données ouvertes via des API et des données structurées.
 ### Agences de placement en ligne
 
   - [jobboom](http://www.jobboom.com/fr)
-  - [jobillºico](jobillico.com )
+  - [jobillico](jobillico.com )
+  - [neuvoo](https://neuvoo.ca/emplois/)
   - [même kijiji a une section emploi!](http://www.kijiji.ca/b-emploi/ville-de-quebec/c45l1700124)
 
 ### Plateformes de réseautage
@@ -249,6 +255,11 @@ Les données ouvertes via des API et des données structurées.
 ### Plateforme orientée developpeur TI et openSource
 
   - [Bounty source](https://www.bountysource.com/)
+
+### Exemples d'API
+
+  - [API netbanks (Mtl)](http://support.optimalpayments.com/REPOSITORY/WebServices_API_1.0_FR.pdf)
+  - [APIs linkedIn](https://developer.linkedin.com)
 
 ## Réalité du marché de l'employabilité en technologie web
 
@@ -283,3 +294,8 @@ Les données ouvertes via des API et des données structurées.
     - Entreprises en TI
     - Gouvernement municipal/provincial/fédéral
     -
+
+# Déploiement
+
+  - [stack: microFramework de présentation](https://github.com/jvtrudel/stack)
+  - [felab: microFramework orienté données](https://github.com/jvtrudel/frontEndLab)
