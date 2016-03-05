@@ -46,7 +46,7 @@ on termine avec un problème/zone grise au centre
 
 objectif 
 
-Revoir le cv adapté au changement dans le marché de l'emploi
-Outil de profil créée par l'usagé et validé par des professionnel
-Recherche de collaboration avec les autres acteurs dans le domaine des compétence et l'employabilité
-Convergence Garneau offre tout les services nécessaires pour optimiser ce profil socio professionnel 
+- Revoir le cv adapté au changement dans le marché de l'emploi
+- Outil de profil créée par l'usagé et validé par des professionnel
+- Recherche de collaboration avec les autres acteurs dans le domaine des compétence et l'employabilité
+- Convergence Garneau offre tout les services nécessaires pour optimiser ce profil socio professionnel 
