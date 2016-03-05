@@ -1,23 +1,39 @@
-$primary-font: font-family : MyriadPro-Bold ; font-seize : 52px ; text-transform: uppercase // Titre 1 //
-$secondary-font: font-family : MyriadPro-bold ; font-seize : 35px // Sous-titre //
+$h1-font: MyriadPro-Bold
+$h1-size : 52px
+$h1-text-transform: uppercase // Titre 1 //
 
-$primary-font-bf: font-family : MyriadPro-Regular ; font-seize : 27px ; // texte courant //
-$primary-font-stong: font-family : MyriadPro-Bold ; font-seize : 27px  // texte courant bold //
-$primary-font-em: font-family : MyriadPro-It ; font-seize : 27px ;  // texte courant italique //
+$h2-font: MyriadPro-bold
+$h2-size: 35px // Sous-titre //
+
+$p-font: MyriadPro-Regular
+$p-size: 27px  // texte courant //
+
+$strong-font: MyriadPro-Bold
+$strong-size: 27px  // texte courant bold //
+
+$em-font: MyriadPro-It
+$em-size: 27px  // texte courant italique //
 
 
 
 
 
 @font-face
-  font-family: $primary-font
-  src: url($primary-font+'.eot') format('opentype')
+  font-family: $h1-font
+  src: url($h1-font+'.eot') format('opentype')
 
 @font-face
-  font-family: $primary-font-bf
-  src: url($primary-font-bf+'.eot') format('opentype')
-
+  font-family: $h2-font
+  src: url($h2-font+'.eot') format('opentype')
 
 @font-face
-  font-family: $primary-font-em
-  src: url($primary-font-em+'.eot') format('opentype')
+  font-family: $p-font
+  src: url($p-font+'.eot') format('opentype')
+
+@font-face
+  font-family: $em-font
+  src: url($em-font+'.eot') format('opentype')
+
+@font-face
+  font-family: $strong-font
+  src: url($strong-font+'.eot') format('opentype')
