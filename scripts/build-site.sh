@@ -18,7 +18,7 @@ build_root=$(pwd)
 rm -rf public
 mkdir public
 cd public
-mkdir css js fonts
+mkdir css js fonts svg
 # Destructif pour l'instant, devra se diriger vers:
 #   - Download stack et frontEndLab si pas présent
 #   - sinon, mettre à jour au besoin
@@ -46,7 +46,7 @@ pages=('index')
 css=('style')
 
 #      sass -> css
-cp -rf vendors/frontEndLab/core/sass/* $tmp
+cp -rf design/felab/* $tmp
 cp -rf design/sass/* $tmp
 
 for i in ${css[@]}; do
@@ -67,3 +67,9 @@ done
 #      transfert des fonts
 
 cp design/fonts/*  public/fonts/.
+
+#      transfert svg
+svg=("Logo_Convergence_Accueil")
+for i in ${svg[@]}; do
+   cp design/svg/$i.svg  public/svg/.
+done
