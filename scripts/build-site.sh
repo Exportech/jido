@@ -56,13 +56,14 @@ done
 
 
 #        mustache+yml -> html
-for i in ${pages[@]}; do
+#for i in ${pages[@]}; do
   cat templates/header.mustache > temp.mustache
-  cat templates/$i.mustache >> temp.mustache
+  cat templates/pagetitre.mustache >> temp.mustache  
+  cat templates/index.mustache >> temp.mustache
   cat templates/footer.mustache >> temp.mustache
-  mustache content/$i.yml temp.mustache > public/$i.html
+  mustache content/index.yml temp.mustache > public/index.html
   rm  -rf temp.mustache
-done
+#done
 
 #      transfert des fonts
 
