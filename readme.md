@@ -3,7 +3,7 @@
 ## Convergence Garneau et ses services
 ###Centre d’expertise en développement et évaluation des compétences 
 	- Évaluation de votre bagage professionnel
-	- Cours à la carte et micro programme
+	- Cours à la carte et micro programme DFC
 	- Projet de formation personnalisé (avec les entreprises)
 	- Reconnaissance des acquis
 	- Expertise en compétence comportementale adapté au milieu socio-professionnel
@@ -12,7 +12,7 @@
 
 
 
-### Exportech
+### Exportech Québec organisme en employabilité
 	- Entreprise d'entrainement
 	- Expérience de travail reconnu
 	- Actualisation des compétences
