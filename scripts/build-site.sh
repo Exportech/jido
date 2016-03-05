@@ -1,3 +1,5 @@
+download_vendors=false
+
 # Ce script est codé en dure, mais servira de canevas au développement d'un outil CLI
 
 # ce script doit être lancé à la racine d'un projet...
@@ -17,16 +19,37 @@ rm -rf public
 mkdir public
 cd public
 mkdir css js
-exit 0
 # Destructif pour l'instant, devra se diriger vers:
 #   - Download stack et frontEndLab si pas présent
 #   - sinon, mettre à jour au besoin
+if $download_vendors
+  then
+  echo "in"
+  echo $download_vendors
+  cd $build_root
+  rm -rf vendors/*
+  touch vendors/.gitkeep
+  cd vendors
+  ../scripts/fetch-vendors.sh
+fi
+
+
+# Déploiement de stack
 cd $build_root
-rm -rf vendors/*
-touch vendors/.gitkeep
-cd vendors
-../scripts/fetch-vendors.sh
+./scripts/install-stack.sh
 
-# Déploiement de frontEndLab
+# Construction du site avec felab
+tmp='.tmp_sass'
+rm -rf $tmp
+mkdir $tmp
+files=('index')
+lab_root='vendors/frontEndLab/core'
 
-cd $
+
+for i in ${files[@]}; do
+  cat templates/header.mustache > temp.mustache
+  cat templates/$i.mustache >> temp.mustache
+  cat templates/footer.mustache >> temp.mustache
+  mustache content/$i.yml temp.mustache > public/$i.html
+  rm  -rf temp.mustache
+done
