@@ -1,8 +1,9 @@
-titre: "Les données ouvertes, au coeur de la modernisation de l'employabilité"
+titre: "Données ouvertes à Québec. Journée internationale des données ouvertes 2016."
+description: "Les données ouvertes à Québec."
+pageTitre: {titre: "CV 3.0: améliorer l'employabilité grâce aux données ouvertes"}
 sections: [
   {titre: "Convergence Garneau et ses services"},
   {titre: "Employabilité"},
   {titre: "Initiative CV 3.0"},
   {titre: "Besoin de collaborateurs"}
-
 ]

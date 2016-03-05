@@ -18,7 +18,7 @@ build_root=$(pwd)
 rm -rf public
 mkdir public
 cd public
-mkdir css js
+mkdir css js fonts
 # Destructif pour l'instant, devra se diriger vers:
 #   - Download stack et frontEndLab si pas présent
 #   - sinon, mettre à jour au besoin
@@ -38,18 +38,31 @@ fi
 cd $build_root
 ./scripts/install-stack.sh
 
-# Construction du site avec felab
+# Construction du site (éventuellement) avec felab
 tmp='.tmp_sass'
 rm -rf $tmp
 mkdir $tmp
-files=('index')
-lab_root='vendors/frontEndLab/core'
+pages=('index')
+css=('style')
+
+#      sass -> css
+cp -rf vendors/frontEndLab/core/sass/* $tmp
+cp -rf design/sass/* $tmp
+
+for i in ${formats[@]}; do
+  sass $tmp/$i.sass public/css/$i.css
+done
 
 
-for i in ${files[@]}; do
+#        mustache+yml -> html
+for i in ${pages[@]}; do
   cat templates/header.mustache > temp.mustache
   cat templates/$i.mustache >> temp.mustache
   cat templates/footer.mustache >> temp.mustache
   mustache content/$i.yml temp.mustache > public/$i.html
   rm  -rf temp.mustache
 done
+
+#      transfert des fonts
+
+cp design/fonts/*  public/fonts/.
