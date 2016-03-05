@@ -69,7 +69,7 @@ done
 cp design/fonts/*  public/fonts/.
 
 #      transfert svg
-svg=("Logo_Convergence_Accueil")
+svg=("Logo_Convergence_Accueil" "Logo_ExportechQc_Accueil")
 for i in ${svg[@]}; do
    cp design/svg/$i.svg  public/svg/.
 done
