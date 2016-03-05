@@ -52,7 +52,7 @@ on termine avec un problème/zone grise au centre
 ## Le CV 3.0
 
 objectif 
-- Générer des données ouvertes
+- Générer des données ouvertes, structurer et normaliser et données statistique
 - Revoir le cv adapté au changement dans le marché de l'emploi
 - Outil de profil créé par l'usagé et validé par des professionnels
 - Recherche de collaboration avec les autres acteurs dans le domaine des compétences et de l'employabilité
