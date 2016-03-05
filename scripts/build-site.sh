@@ -49,7 +49,8 @@ css=('style')
 cp -rf vendors/frontEndLab/core/sass/* $tmp
 cp -rf design/sass/* $tmp
 
-for i in ${formats[@]}; do
+for i in ${css[@]}; do
+  echo $tmp/$i.sass
   sass $tmp/$i.sass public/css/$i.css
 done
 

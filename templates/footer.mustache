@@ -11,7 +11,7 @@ var mystack = stack()
 var section = d3.selectAll("section"),
     follow = d3.select("#follow"),
     followAnchor = d3.select("#follow-anchor"),
-    followIndex = section[0].indexOf(follow.node()),
+    followIndex = section[0].indexOf(follow.node());
 
 function refollow() {
   followAnchor.style("top", (followIndex + (1 - mystack.scrollRatio()) / 2 - d3.event.offset) * 100 + "%");
