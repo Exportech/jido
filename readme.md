@@ -1,7 +1,7 @@
 # CV 3.0: revisitez l'employabilité avec les données ouvertes
 
 ## Convergence Garneau et ses services
-	= centre d’expertise en développement et évaluation des compétences 
+	** Centre d’expertise en développement et évaluation des compétences **
 	- Évaluation des compétences professionnel
 	- Cours à la carte et micro programme
 	- Formation personnalisé
